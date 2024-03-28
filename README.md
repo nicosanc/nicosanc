@@ -5,7 +5,7 @@
 <h3 style="text-align: center;"> I'm looking to collaborate on any projects related to AI, Robotic Simulations, and XR/MR!</h3>
 
 <h3 style="text-align: center;">As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!</h3>
-<h4 style="text-align: center;">Reach me by email: <a href="mailto:user@example.com">nicosanchez0411@gmail.com</a></p>
+<h4 style="text-align: center;">Reach me by email: <a href="mailto:user@example.com">nicosanchez0411@gmail.com</a></h4>
 ###           Connect with me on LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/))
 
 <!--
