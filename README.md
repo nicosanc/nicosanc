@@ -1,10 +1,15 @@
-### Hi there 👋 My name is Nico and I'm an asipring Data Scientist
-        ### I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math
-        ### I'm currently navigating the job market looking for my first full time role as either a Data Engineer or Software Engineer
-        ### I'm looking to collaborate on any projects related to AI, Robotic Simulations, and XR/MR!
 
-### As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!
-### Reach me by email: [nicosanchez0411\@gmail.com](mailto:nicosanchez0411@gmail.com) 
+<p style="text-align: center>### Hi there 👋 My name is Nico and I'm an asipring Data Scientist</p>
+<p style="text-align: center;">### I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </p>
+<p style="text-align: center;">### I'm currently navigating the job market looking for my first full time role as either a Data Engineer or Software Engineer<p>
+<p style="text-align: center;">### I'm looking to collaborate on any projects related to AI, Robotic Simulations, and XR/MR!</p>
+
+<p style="text-align: center;">### As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!</p>
+<p style="text-align: center;">### Reach me by email: [nicosanchez0411\@gmail.com](mailto:nicosanchez0411@gmail.com) </p>
+[Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/))
+
+
+
 ### Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
 
 <!--
