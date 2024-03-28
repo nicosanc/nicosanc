@@ -10,7 +10,7 @@
 
 
 
-### Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
+### Connect with me on LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
 <!--
 **nicosanc/nicosanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
