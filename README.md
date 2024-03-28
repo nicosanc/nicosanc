@@ -4,8 +4,8 @@
 <h3 style="text-align: center;"> I'm currently navigating the job market looking for my first full time role as either a Data Engineer or Software Engineer<h3>
 <h3 style="text-align: center;"> I'm looking to collaborate on any projects related to AI, Robotic Simulations, and XR/MR!</h3>
 
-<p style="text-align: center;">As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!</p>
-<p style="text-align: center;">Reach me by email: [nicosanchez0411@gmail.com](mailto:nicosanchez0411@gmail.com) </p>
+<h3 style="text-align: center;">As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!</h3>
+<p style="text-align: center;">Reach me by email: <a href="mailto:user@example.com">nicosanchez0411@gmail.com</a></p>
 [Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/))
 
 
