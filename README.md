@@ -6,7 +6,7 @@
 
 <h3 style="text-align: center;">As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!</h3>
 
-## [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com) | [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
+## [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)  [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
 <!--
 **nicosanc/nicosanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
