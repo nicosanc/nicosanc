@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name is Nico and I'm an asipring Data Scientist
+### I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math
+### I'm currently navigating the job market looking for my first full time role as either a Data Engineer or Software Engineer
+### I'm looking to collaborate on any projects related to AI, Robotic Simulations, and XR/MR!
+
+### As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!
+### Reach me by email: [nicosanchez0411\@gmail.com](mailto:nicosanchez0411@gmail.com) 
+### Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
 
 <!--
 **nicosanc/nicosanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
