@@ -6,7 +6,7 @@
 
 <h3 style="text-align: center;">As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!</h3>
 
-## Reach me by email: [nicosanchez0411@gmail.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fgmail_281769&psig=AOvVaw2RG_fSvsqW7Ew_iYJbJanl&ust=1711731143866000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCMDIh8i1l4UDFQAAAAAdAAAAABAE) Gmail ](mailto:nicosanchez0411@gmail.com)
+## Reach me by email: [nicosanchez0411@gmail.com](https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png) Gmail ](mailto:nicosanchez0411@gmail.com)
 <!--
 **nicosanc/nicosanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
