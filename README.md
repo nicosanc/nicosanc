@@ -1,9 +1,8 @@
 
 <h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an asipring Data Scientist</h1>
 <h3 style="text-align: center;"> I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </h3>
-<h3 style="text-align: center;"> I'm currently navigating the job market looking for my first full time role as either a Data Engineer or Software Engineer<h3>
-<h3 style="text-align:center;">I'm actively pursuing the AWS Associate Developer and the Databricks Associate Developer for Apache Spark 3.0 certifications to further my understanding of production cloud development and multi-faceted data processing and analysis</h3>
-<h3 style="text-align: center;">As you can see from my profile, I'm a huge Chelsea fan! Up da Chels!!!</h3>
+<h3 style="text-align: center;"> I'm currently navigating the job market for my first full time role as either a Data Engineer or Software Engineer<h3>
+
 
 ## [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)  [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
 <!--
