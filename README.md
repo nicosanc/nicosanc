@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an asipring Data Scientist</h1>
+<h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an aspiring Data Scientist</h1>
 <h3 style="text-align: center;"> I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </h3>
 <h3 style="text-align: center;"> I'm currently navigating the job market for my first full time role as a Data Engineer<h3>
 
