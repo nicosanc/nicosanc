@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an aspiring Data Scientist</h1>
 <h3 style="text-align: center;"> I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </h3>
-<h3 style="text-align: center;"> I'm currently navigating the job market for my first full time role as a Data Engineer<h3>
+<h3 style="text-align: center;"> I've recently began my learning journey into blockchainr<h3>
 
 
 ## [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)  [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
