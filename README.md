@@ -1,7 +1,8 @@
 
 <h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an aspiring Data Scientist</h1>
 <h3 style="text-align: center;"> I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </h3>
-<h3 style="text-align: center;"> I've recently began my learning journey into blockchain<h3>
+<h3 style="text-align: center;"> I've recently began my learning journey into blockchain, starting with learning the ins and outs of Starknet<h3>
+<h3 style="text-align: center;"> I'm currently mastering Cairo, a Rust-like language, through the Starknet Basecamp9 </h3>
 
 
 ## [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)  [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
