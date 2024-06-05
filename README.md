@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an aspiring Data Scientist</h1>
 <h3 style="text-align: center;"> I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </h3>
-<h3 style="text-align: center;"> I've recently began my learning journey into blockchain, starting with learning the ins and outs of Starknet<h3>
+<h3 style="text-align: center;"> I recently embarked on my learning journey into blockchain, starting with learning the ins and outs of Starknet<h3>
 <h3 style="text-align: center;"> I recently graduated from Starknet's Basecamp 9 as "Cum Laude", where I gained meaningful knowledge on building smart contracts with Cairo (a rust-like language)
 
 
