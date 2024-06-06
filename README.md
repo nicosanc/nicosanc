@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an aspiring Data Scientist</h1>
+<h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an aspiring Developer looking for an opportunity to start my professional career</h1>
 <h3 style="text-align: center;"> I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </h3>
 <h3 style="text-align: center;"> I recently graduated from Starknet's Basecamp 9 as "Cum Laude", where I gained meaningful knowledge on building smart contracts with Cairo (a rust-like language)
 <h3 style="text-align: center;"> During the recent <a href="https://app.onlydust.com/h/odhack-40#overview"> ODHack 4</a>, I had my first open source contribution merged on Camrmine Options' DeRisk Research project</h3>
