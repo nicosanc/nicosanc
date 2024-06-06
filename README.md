@@ -4,7 +4,7 @@
 <h3 style="text-align: center;"> I recently graduated from Starknet's Basecamp 9 as "Cum Laude", where I gained meaningful knowledge on building smart contracts with Cairo (a rust-like language)
 <h3 style="text-align: center;"> During the recent <a href="https://app.onlydust.com/h/odhack-40#overview"> ODHack 4</a>, I had my first open source contribution merged on Camrmine Options' DeRisk Research project</h3>
 
-## [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)  [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/)
+## [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)  [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/) [![OnlyDust](https://app.onlydust.com/_next/static/media/onlydust-logo.68e14357.webp)](https://app.onlydust.com/u/nicosanc)
 <!--
 **nicosanc/nicosanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
