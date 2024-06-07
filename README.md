@@ -46,7 +46,7 @@
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # Certifications
-<img src="images/databricks-cer.png" style="height: 150px; width: 100px;"></img>
+<img src="images/databricks-cert.png" style="height: 150px; width: 100px;"></img>
 
 # Reach Me
 [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)
