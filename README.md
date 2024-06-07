@@ -45,7 +45,12 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+# Certifications
+![Databricks Cert](images/databricks-cert.png)
 
+# Reach Me
+[![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)
+[![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/) 
   
   
   
