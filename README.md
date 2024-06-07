@@ -9,9 +9,9 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
 - ## Languages
-  ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
+  ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
   ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Cairo Badge](https://img.shields.io/badge/Cairo-red&style=for-the-badge)
+  ![Cairo Badge](https://img.shields.io/badge/Cairo-red?style=for-the-badge)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=for-the-badge) 
   ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=for-the-badge)
   ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful&style=for-the-badge)
