@@ -48,7 +48,7 @@
 
 # Certifications
 <img src="images/databricks-cert.png" style="height: 150px; width: 100px;"></img>
-<img src="images/basecamp-spok.png" style="height: 150px; width: 100px;"></img>
+<img src="images/basecamp-spok.png" style="height: 150px; width: 150px;"></img>
 # Reach Me
 [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)
 [![LinkedIn](images/icons8-linkedin-48.png)](https://www.linkedin.com/in/nicolas-sanchez-noguera-0792621a5/) 
