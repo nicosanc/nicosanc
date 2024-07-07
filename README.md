@@ -50,7 +50,7 @@
 <img src="images/databricks-cert.png" style="height: 150px; width: 100px;"></img>
 <img src="images/basecamp-spok.png" style="height: 150px; width: 150px;"></img>
 <img src="images/1711569414617.jpeg" style="height: 150px; width: 150px;"></img>
-<img src="images/certificate (1).jpg" style="height: 150px; width: 150px;"></img>
+<img src="images/cert-hf.jpg" style="height: 150px; width: 150px;"></img>
 
 # Reach Me
 [![nicosanchez0411@gmail.com](images/icons8-gmail-48.png)](mailto:nicosanchez0411@gmail.com)
