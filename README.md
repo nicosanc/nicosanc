@@ -2,7 +2,7 @@
 <h3 style="text-align: center;"> I graduated from the University of Michigan with a B.S.E in Data Science, minor in Math    </h3>
 <h3 style="text-align: center;"> I recently graduated from <a href="https://starknet.notion.site/Starknet-Basecamp-Hub-1541b3c1f49f439da872d3d71647d834">Starknet's Basecamp 9</a> as "Cum Laude", where I gained meaningful knowledge on building smart contracts with Cairo (a rust-like language)
 <h3 style="text-align: center;"> During the recent <a href="https://app.onlydust.com/h/odhack-40#overview"> ODHack 4</a>, I had my first <a href="https://app.onlydust.com/u/nicosanc">open source contribution</a> merged on Carmine Options' DeRisk Research project</h3>
-<h3 style="text-align: center;"> My parnter and I are continuing to implement the project (Starknet Eventoors) we began implementing for Starknet's <a href="https://ethglobal.com/events/starkhack">StarkHack</a> hackathon</h3>
+<h3 style="text-align: center;"> My partner and I are continuing to implement the project (Starknet Eventoors) we designed for Starknet's <a href="https://ethglobal.com/events/starkhack">StarkHack</a> hackathon</h3>
 
 
 
