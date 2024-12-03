@@ -1,9 +1,4 @@
 <h1 style="text-align: center;"> Hi there 👋 My name is Nico and I'm an aspiring Software Engineer looking for the next steps in my professional career</h1>
-<h3 style="text-align: center;"> During the <a href="https://app.onlydust.com/h/odhack-40#overview"> ODHack 4</a>, I had my first <a href="https://github.com/CarmineOptions/derisk-research/issues/99">open source contribution</a> merged on Carmine Options' DeRisk Research project</h3>
-<h3 style="text-align: center;">I'm currently leveraging the University of Helsinki's public FullStackOpen course to master end-to-end Web App development</h3>
-
-
-
 
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
